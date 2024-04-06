@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024 03 28 11:52:00.000.727,=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024 03 28 11:52:01.000.429,=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024 03 28 12:08:25.000.496,C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\GuessingGame.cbproj=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024 03 28 12:08:25.000.481,C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\GuessingGamePCH1.h=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024 03 28 13:13:26.000.924,C:\C++ GUI Apps\GuessingGamePCH2.h=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\GuessingGamePCH1.h</Transaction>
+    <Transaction>2024 03 28 13:13:26.000.792,C:\C++ GUI Apps\Unit1.fmx=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024 03 28 13:13:26.000.792,C:\C++ GUI Apps\Unit1.cpp=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024 03 28 13:13:26.000.792,C:\C++ GUI Apps\Unit1.h=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024 03 28 13:13:27.000.103,C:\C++ GUI Apps\GuessingGame.cbproj=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\GuessingGame.cbproj</Transaction>
+    <Transaction>2024 03 28 13:28:26.000.566,C:\C++ GUI Apps\Guessing Game\Unit1.fmx=C:\C++ GUI Apps\Guessing Game\Unit3.fmx</Transaction>
+    <Transaction>2024 03 28 13:28:26.000.566,C:\C++ GUI Apps\Guessing Game\Unit1.h=C:\C++ GUI Apps\Guessing Game\Unit3.h</Transaction>
+    <Transaction>2024 03 28 13:28:26.000.566,C:\C++ GUI Apps\Guessing Game\Unit1.cpp=C:\C++ GUI Apps\Guessing Game\Unit3.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

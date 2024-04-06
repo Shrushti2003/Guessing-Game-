@@ -1,0 +1,82 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 224
+  ClientWidth = 612
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object TitleLabel: TLabel
+    StyledSettings = []
+    Position.X = 32.000000000000000000
+    Position.Y = -8.000000000000000000
+    Size.Width = 305.000000000000000000
+    Size.Height = 80.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Family = 'Candara'
+    TextSettings.Font.Size = 20.000000000000000000
+    TextSettings.Font.StyleExt = {04040000000000000004000000}
+    TextSettings.FontColor = claMidnightblue
+    TextSettings.Trimming = None
+    Text = 'TitleLabel'
+    TabOrder = 0
+  end
+  object NumberEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 1
+    TextSettings.Font.Family = 'Trebuchet MS'
+    TextSettings.Font.Size = 16.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    Position.X = 32.000000000000000000
+    Position.Y = 80.000000000000000000
+    Size.Width = 241.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    StyledSettings = [FontColor]
+  end
+  object HelperLabel: TLabel
+    StyledSettings = [Style]
+    Position.X = 32.000000000000000000
+    Position.Y = 168.000000000000000000
+    Size.Width = 177.000000000000000000
+    Size.Height = 48.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Family = 'Candara'
+    TextSettings.Font.Size = 18.000000000000000000
+    TextSettings.FontColor = claOrangered
+    TextSettings.Trimming = None
+    Text = 'HelperLabel'
+    TabOrder = 2
+  end
+  object ConfirmButton: TButton
+    StyledSettings = [FontColor]
+    Position.X = 312.000000000000000000
+    Position.Y = 80.000000000000000000
+    Size.Width = 137.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'ConfirmButton'
+    TextSettings.Font.Family = 'Cambria Math'
+    TextSettings.Font.Size = 16.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.Trimming = None
+    OnClick = ConfirmButtonClick
+  end
+  object CounterLabel: TLabel
+    StyledSettings = [Style]
+    Position.X = 408.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 144.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Family = 'Microsoft JhengHei UI'
+    TextSettings.Font.Size = 14.000000000000000000
+    TextSettings.FontColor = claDarkred
+    TextSettings.Trimming = None
+    Text = 'CounterLabel'
+    TabOrder = 4
+  end
+end
