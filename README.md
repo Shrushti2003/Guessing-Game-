@@ -59,8 +59,8 @@ The primary goal of this project is to create an interactive and fun game that d
 ## Conclusion
 The Guessing Game application provides an entertaining way for users to engage in a classic number guessing game. It highlights fundamental programming principles while offering a simple, interactive experience. The game encourages players to use logical thinking and problem-solving skills to guess the correct number.
 
-[YouTube Video Link]
+[YouTube video link for the Guessing Game](https://youtu.be/ShIkCB4CEgk?si=DV2QkzC3UQRFB8BC)
 
-This README offers a clear overview of the Guessing Game project, outlining its features and functionality. The [YouTube Video Link] placeholder can be updated with the actual link to your project's demonstration video.
+This video offers a concise and clear overview of your Guessing Game project, reflecting the simplicity and functionality of the game.
 
 ---
